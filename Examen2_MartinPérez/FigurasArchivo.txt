@@ -1,0 +1,10 @@
+  El Circulo tiene un area de: 98.5203
+  El Cuadrado tiene un area de: 2079.36
+  El Circulo tiene un area de: 50.2655
+  El Cuadrado tiene un area de: 9
+  El Circulo tiene un area de: 19359.3
+  El Cuadrado tiene un area de: 0.16
+  El Circulo tiene un area de: 3631.68
+  El Cuadrado tiene un area de: 1156
+  El Circulo tiene un area de: 3.14159
+  El Cuadrado tiene un area de: 73.96
